@@ -48,27 +48,34 @@
 
 行业名人
 ![image](行业名人.webp)
+
 学术过万（20人）
-![image](学术过万.webp)
-年轻博士（29人）：博士毕业3年以内的（即22年、23年、23年毕业的同学）
-![image](年轻博士.webp)
+![image](引用过万.webp)
+
+年轻博士（30人）：博士毕业3年以内的（即22年、23年、23年毕业的同学）
+![image](年轻博士1.png)
+
 在读博士（25人）：博士还未毕业的同学
 ![image](在读博士.webp)
+
 学术总表明细（共计178人）
 ![image](1-20.webp)
 ![image](21-40.webp)
 ![image](41-60.webp)
 ![image](61-80.webp)
 ![image](81-100.webp)
-![image](101-120.webp)
+![image](101-120.png)
 ![image](121-140.webp)
-![image](140-178.webp)
+![image](140-178.png)
+
 目前在美国99人，占比总人数的55.6%，要知道我统计的只是华人，起码在具身领域，中美的差异巨大。
 
 三、 高引paper
 ![image](高引.webp)
+
 四、 适合外行人看的paper
 ![image](外行.webp)
+
 一般专业术语是文献综述literature review：
 
 五、 优秀机器人LAB
