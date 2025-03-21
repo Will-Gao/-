@@ -47,21 +47,28 @@
 按照上述的标准下，总计178个人，做了简单的标签区分，便于大家查阅
 
 行业名人
-
+![image](行业名人.webp)
 学术过万（20人）
-
+![image](学术过万.webp)
 年轻博士（29人）：博士毕业3年以内的（即22年、23年、23年毕业的同学）
-
+![image](年轻博士.webp)
 在读博士（25人）：博士还未毕业的同学
-
+![image](在读博士.webp)
 学术总表明细（共计178人）
-
+![image](1-20.webp)
+![image](21-40.webp)
+![image](41-60.webp)
+![image](61-80.webp)
+![image](81-100.webp)
+![image](101-120.webp)
+![image](121-140.webp)
+![image](140-178.webp)
 目前在美国99人，占比总人数的55.6%，要知道我统计的只是华人，起码在具身领域，中美的差异巨大。
 
 三、 高引paper
-
+![image](高引.webp)
 四、 适合外行人看的paper
-
+![image](外行.webp)
 一般专业术语是文献综述literature review：
 
 五、 优秀机器人LAB
@@ -95,9 +102,9 @@ YrobotCEO Ye Ding 丁也老师---东南大学本科-美国东北大学硕士-哈
 七、 表格的梳理逻辑
 
 通过一个人的谷歌学术，如苏昊老师，学术主页上会有各种标签，Embodied AI，CV， CG， ML
-
+![image](苏昊.webp)
 点击：Embodied AI，就会出现相关研究人员。
-
+![image](embodied.webp)
 挨个点开，依次筛选，合适的就放在表格，但只看这一个标签，容易遗漏，因此在看其他人的时候，会发现有其他标签的也属于具身智能领域，继续循环上面操作，整个表格大概统计了如下几个标签：
 
 Robotics，Robot Learning，Motion Planning，Manipulation，Human-robot interaction，Tactile sensing，Robotic Grasping，Foundation Models，dexterous manipulation，SLAM，Autonomous Driving等；
@@ -105,5 +112,7 @@ Robotics，Robot Learning，Motion Planning，Manipulation，Human-robot interac
 这里面最不相关的其实是Autonomous Driving，里面虽然非常多人的标签里面包含Robotics，但自动驾驶的AI和我上述的定义差异太大，在看过很多学术主页之后，到后期我看到这个标签之后基本就直接略过，不过也确实少数除外，比如Pinxin Long，虽然属于百度自动驾驶，但是主页有明显涉及机器人抓取，分拣的研究；
 
 其中最相关的是Robot Learning和Robotics，最难的是Robotics，因为好像只要是做AI的都会有这个标签，而如果只有这一个标签，往往还很合适，我最终翻到了第5011- 5020页，按照一页20个列表来计算，大概翻到251页，终于到学术引用量1K附近。
-
+![image](1K.webp)
 最后：个人毕竟外行，疏漏之处在所难免，非常希望行业同学提出批评意见！
+
+原文链接：https://mp.weixin.qq.com/s/_TXjlq-I-1gnkfo2l0a5tg
